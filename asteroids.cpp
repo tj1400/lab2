@@ -1,6 +1,6 @@
 //modified by: Terry Langhardt
 //date: 2/1/18
-//
+//fill asteroids, randomize colors, and make score
 //
 //program: asteroids.cpp
 //author:  Gordon Griesel
